@@ -1,0 +1,126 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>img/background/IntiBackground.png</file>
+        <file>img/background/leve_1_back.jpg</file>
+        <file>img/background/level_2_back.jpg</file>
+        <file>img/background/level_3_back.jpg</file>
+        <file>img/background/level_4_back.jpg</file>
+        <file>img/background/level_3_back_2.jpg</file>
+    </qresource>
+    <qresource prefix="/init">
+        <file>img/init/Minecraft.png</file>
+        <file>img/init/Init_Help.jpg</file>
+        <file>img/init/Init_NewWorld.jpg</file>
+        <file>img/init/Exit.jpg</file>
+        <file>img/init/demo_background.jpg</file>
+    </qresource>
+    <qresource prefix="/level_1">
+        <file>img/block/Cobblestone.png</file>
+        <file>img/block/grass.jpg</file>
+        <file>img/block/Log.png</file>
+        <file>img/block/Planks.png</file>
+        <file>img/block/soil.png</file>
+        <file>img/block/bedrock.jpg</file>
+        <file>img/block/Road.png</file>
+        <file>img/block/leaf.png</file>
+        <file>img/block/TransmitBlock.png</file>
+        <file>img/block/Trigger.png</file>
+        <file>img/block/TNT.jpg</file>
+        <file>img/block/TNT_willing.jpg</file>
+        <file>img/block/box.png</file>
+        <file>img/block/box_open.png</file>
+    </qresource>
+    <qresource prefix="/Steve">
+        <file>img/character/Steve/Steve_Right.png</file>
+        <file>img/character/Steve/Steve_front.png</file>
+        <file>img/character/Steve/Steve_Left.png</file>
+    </qresource>
+    <qresource prefix="/level_2">
+        <file>img/block/bedrock.jpg</file>
+        <file>img/block/Cobblestone.png</file>
+        <file>img/block/Crafting_Table.png</file>
+        <file>img/block/Planks.png</file>
+        <file>img/block/Road.png</file>
+        <file>img/block/soil.png</file>
+        <file>img/block/Stone.png</file>
+        <file>img/block/Launcher.jpg</file>
+        <file>img/block/MossyStone.jpg</file>
+        <file>img/block/Ladder.png</file>
+        <file>img/block/TransmitBlock.png</file>
+        <file>img/block/box.png</file>
+        <file>img/block/box_open.png</file>
+        <file>img/block/Monster_Spawner_1.jpg</file>
+        <file>img/block/Monster_Spawner_2.jpg</file>
+        <file>img/block/Monster_Spawner_3.jpg</file>
+        <file>img/block/TNT.jpg</file>
+        <file>img/block/TNT_willing.jpg</file>
+        <file>img/block/Trigger.png</file>
+    </qresource>
+    <qresource prefix="/level_3">
+        <file>img/block/Road.png</file>
+        <file>img/block/sand.jpg</file>
+        <file>img/block/sand_gravel.png</file>
+        <file>img/block/bedrock.jpg</file>
+        <file>img/block/obsidian.jpg</file>
+        <file>img/block/box.png</file>
+        <file>img/block/box_open.png</file>
+        <file>img/block/TransmitBlock.png</file>
+        <file>img/block/Stone.png</file>
+        <file>img/block/ladder_sand.jpg</file>
+        <file>img/block/TNT.jpg</file>
+        <file>img/block/TNT_willing.jpg</file>
+        <file>img/block/Touch_pressure_plate.png</file>
+    </qresource>
+    <qresource prefix="/villager">
+        <file>img/character/Villager/villager.png</file>
+    </qresource>
+    <qresource prefix="/Item">
+        <file>img/Item/fake.jpg</file>
+        <file>img/Item/Trigger.png</file>
+        <file>img/Item/icon.jpg</file>
+        <file>img/Item/real_sword.jpg</file>
+        <file>img/Item/breastplate.jpg</file>
+        <file>img/Item/sand.jpg</file>
+        <file>img/Item/Tnt.jpg</file>
+        <file>img/Item/ferrocerium.jpg</file>
+        <file>img/Item/flint.jpg</file>
+        <file>img/Item/Gunpowder.jpg</file>
+    </qresource>
+    <qresource prefix="/Heart">
+        <file>img/character/Heart/Empty_Heart.png</file>
+        <file>img/character/Heart/Full_Heart.png</file>
+        <file>img/character/Heart/Half_Heart.png</file>
+    </qresource>
+    <qresource prefix="/level_4">
+        <file>img/block/Magma.jpg</file>
+        <file>img/block/Netherrack.jpg</file>
+        <file>img/block/Weird_Fungus_Rock.jpg</file>
+        <file>img/block/TransmitBlock.png</file>
+    </qresource>
+    <qresource prefix="/Enderman">
+        <file>img/character/Enderman/Enderman_Angry_Left_0.png</file>
+        <file>img/character/Enderman/Enderman_Angry_Left_1.png</file>
+        <file>img/character/Enderman/Enderman_Angry_Left_2.png</file>
+        <file>img/character/Enderman/Enderman_Angry_Right_0.png</file>
+        <file>img/character/Enderman/Enderman_Angry_Right_1_.png</file>
+        <file>img/character/Enderman/Enderman_Angry_Right_2 .png</file>
+        <file>img/character/Enderman/Enderman_Attack_Left.png</file>
+        <file>img/character/Enderman/Enderman_Attack_Right.png</file>
+        <file>img/character/Enderman/Enderman_Hurt_Left.png</file>
+        <file>img/character/Enderman/Enderman_Hurt_Right.png</file>
+        <file>img/character/Enderman/Enderman_Normal_Left.png</file>
+        <file>img/character/Enderman/Enderman_Normal_Left_2.png</file>
+        <file>img/character/Enderman/Enderman_Normal_Right.png</file>
+        <file>img/character/Enderman/Enderman_Normal_Right_2.png</file>
+    </qresource>
+    <qresource prefix="/Creeper">
+        <file>img/character/Creeper/Creeper_Left.png</file>
+        <file>img/character/Creeper/Creeper_Left_WillingBoom.png</file>
+        <file>img/character/Creeper/Creeper_Right.png</file>
+        <file>img/character/Creeper/Creeper_Right_WillingBoom.png</file>
+    </qresource>
+    <qresource prefix="/Zombie">
+        <file>img/character/Zombie/Zombie_Left.png</file>
+        <file>img/character/Zombie/Zombie_Right.png</file>
+    </qresource>
+</RCC>
